@@ -9,7 +9,8 @@
 </head>
 <body>
     <h3>HAPPY NEW YEAR EBRIWAN!!</h3>
-    <img src="Manny Pakgay.jpg"
+    <img src="Manny Pakgay.jpg"![Manny Pakgay](https://github.com/user-attachments/assets/0d5aef12-979b-451e-a0b2-85857f3bdb5e)
+
     <h4>Bakit ka kupal?</h4>
     <ol>
         <li>Palautog ka</li>
@@ -32,8 +33,6 @@
 <body>
     <title>About us</title>
     <h1>SYBAU</h1>
-    <img src="Paldings.jpg">
+    <img src="Paldings.jpg">![Paldings](https://github.com/user-attachments/assets/5e567e18-d31c-4551-be9e-adcb6f11c519)
 </body>
 </html>
-![Manny Pakgay](https://github.com/user-attachments/assets/f5b7556e-6ffd-41ad-8a8e-f5e61977367e)
-![Paldings](https://github.com/user-attachments/assets/6ffc695d-cc47-4cae-ba44-47bf6c12e75b)
